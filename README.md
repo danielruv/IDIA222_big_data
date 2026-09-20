@@ -61,3 +61,6 @@ student-performance-analysis/
 
 Daniel Ruvalcaba Juárez — Matrícula 126058326
 Ingeniería en Datos e Inteligencia Artificial — UPQ
+
+## Resultados
+- El promedio general de calificaciones ronda los 65-70 puntos. - Se detectaron algunos outliers en math score, calificaciones muy bajas.
